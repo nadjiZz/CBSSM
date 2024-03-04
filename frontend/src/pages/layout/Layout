@@ -1,0 +1,16 @@
+// import React from 'react';
+// import Home from "../home/Home";
+// import Login from "../login/Login";
+// import Profile from "../profile/Profile";
+// import Register from "../register/Register";
+// import Messenger from "../messenger/Messenger";
+
+// const Layout =({children}) =>{
+//     return(
+    
+
+        
+//     )
+// }
+
+// export default Layout;

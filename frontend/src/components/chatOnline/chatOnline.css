@@ -1,0 +1,33 @@
+.chatOnlineFriends{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.chatOnlineImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border : 1px solid white;
+}
+
+.chatOnlineContainer{
+    width: 40px;
+    margin-right: 10px;
+    position: relative;
+}
+
+.chatOnlineBadge{
+    width: 10px;
+    height: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: limegreen;
+    position: absolute;
+    top: 2px;
+    right: 2px;
+}
